@@ -1,0 +1,13 @@
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/bin/Debug/net8.0/SimPEG.deps.json
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/bin/Debug/net8.0/SimPEG.dll
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/bin/Debug/net8.0/SimPEG.pdb
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/obj/Debug/net8.0/SimPEG.CSharp.csproj.AssemblyReference.cache
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/obj/Debug/net8.0/SimPEG.CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/obj/Debug/net8.0/SimPEG.CSharp.AssemblyInfoInputs.cache
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/obj/Debug/net8.0/SimPEG.CSharp.AssemblyInfo.cs
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/obj/Debug/net8.0/SimPEG.CSharp.csproj.CoreCompileInputs.cache
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/obj/Debug/net8.0/SimPEG.CSharp.sourcelink.json
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/obj/Debug/net8.0/SimPEG.dll
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/obj/Debug/net8.0/refint/SimPEG.dll
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/obj/Debug/net8.0/SimPEG.pdb
+/home/runner/work/simpeg/simpeg/SimPEG.CSharp/obj/Debug/net8.0/ref/SimPEG.dll
