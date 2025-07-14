@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>SimPEG</AssemblyName>
+    <RootNamespace>SimPEG</RootNamespace>
+    <Version>0.18.1</Version>
+    <Authors>SimPEG Team (C# Port)</Authors>
+    <Company>SimPEG</Company>
+    <Product>SimPEG - Simulation and Parameter Estimation in Geophysics</Product>
+    <Description>SimPEG is a package for simulation and gradient based parameter estimation in the context of geophysical applications.</Description>
+    <Copyright>2013 - 2024, SimPEG Team</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>http://simpeg.xyz/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/simpeg/simpeg</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+    <PackageReference Include="System.Numerics.Vectors" Version="4.5.0" />
+  </ItemGroup>
+
+</Project>

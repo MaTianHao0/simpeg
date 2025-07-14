@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qGcwjlAD7BcNRwfMc5vqDladsjFegI6hL9vKl4eHn549dhD7rbINqxqeJN/nUE8gq9h2CLX4BHXwL58oBquhGg==",
+  "success": true,
+  "projectFilePath": "/home/runner/work/simpeg/simpeg/SimPEG.Examples/SimPEG.Examples.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
