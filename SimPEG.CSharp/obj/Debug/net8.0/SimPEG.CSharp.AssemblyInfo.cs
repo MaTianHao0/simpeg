@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("SimPEG is a package for simulation and gradient based parameter estimation in the" +
     " context of geophysical applications.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.18.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.18.1+8d2818c4af95dc4ee49c45ba505fd9128958cd06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.18.1+df8c77e6ab3ee40fde67239498e11139fa255964")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimPEG - Simulation and Parameter Estimation in Geophysics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimPEG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.18.1.0")]

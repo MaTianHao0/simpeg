@@ -1,10 +1,4 @@
 /home/runner/work/simpeg/simpeg/SimPEG.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_SimPEG.Tests
-/home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.csproj.AssemblyReference.cache
-/home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.GeneratedMSBuildEditorConfig.editorconfig
-/home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.AssemblyInfoInputs.cache
-/home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.AssemblyInfo.cs
-/home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.csproj.CoreCompileInputs.cache
-/home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.sourcelink.json
 /home/runner/work/simpeg/simpeg/SimPEG.Tests/bin/Debug/net8.0/NUnit3.TestAdapter.dll
 /home/runner/work/simpeg/simpeg/SimPEG.Tests/bin/Debug/net8.0/NUnit3.TestAdapter.pdb
 /home/runner/work/simpeg/simpeg/SimPEG.Tests/bin/Debug/net8.0/nunit.engine.dll
@@ -95,6 +89,12 @@
 /home/runner/work/simpeg/simpeg/SimPEG.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /home/runner/work/simpeg/simpeg/SimPEG.Tests/bin/Debug/net8.0/SimPEG.dll
 /home/runner/work/simpeg/simpeg/SimPEG.Tests/bin/Debug/net8.0/SimPEG.pdb
+/home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.csproj.AssemblyReference.cache
+/home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.AssemblyInfoInputs.cache
+/home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.AssemblyInfo.cs
+/home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.csproj.CoreCompileInputs.cache
+/home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.sourcelink.json
 /home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.csproj.CopyComplete
 /home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/SimPEG.Tests.dll
 /home/runner/work/simpeg/simpeg/SimPEG.Tests/obj/Debug/net8.0/refint/SimPEG.Tests.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimPEG.Examples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d2818c4af95dc4ee49c45ba505fd9128958cd06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8c77e6ab3ee40fde67239498e11139fa255964")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimPEG.Examples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimPEG.Examples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
