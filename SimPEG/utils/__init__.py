@@ -148,6 +148,16 @@ PGI Utility Classes and Functions
   GaussianMixtureWithNonlinearRelationships
   GaussianMixtureWithNonlinearRelationshipsWithPrior
 
+
+CAD Utility Classes and Functions
+================================
+.. autosummary::
+  :toctree: generated/
+
+  cad.FrameGenerator
+  cad.FrameTemplateManager
+  cad.DWGReader
+
 Code Utility Functions
 ======================
 Many of the functions here are used internally to SimPEG and have minimal documentation.
@@ -276,6 +286,7 @@ from .pgi_utils import (
     GaussianMixtureWithNonlinearRelationships,
     GaussianMixtureWithNonlinearRelationshipsWithPrior,
 )
+from . import cad
 
 # Deprecated imports
 interpmat = deprecate_function(
